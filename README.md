@@ -1,1 +1,3 @@
-# Daksh_8887759
+Your Name: Daksh Patel
+Project Title: Lab 3
+Student Id: 8887759
